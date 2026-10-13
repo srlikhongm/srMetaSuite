@@ -1,0 +1,8 @@
+{
+  "version": "1.3.0",
+  "title": "srMetaSuite v1.3.0 — Enhanced Video Bulk Publisher & Smart Session Engine",
+  "release_date": "2026-10-13",
+  "download_url": "https://github.com/srlikhongm/srMetaSuite/releases/download/v1.3.0/srMetaSuite_v1.3.0_Setup.exe",
+  "asset_name": "srMetaSuite_v1.3.0_Setup.exe",
+  "changelog": "### What's New in v1.3.0:\n- 🚀 High-Speed Bulk Reels Publisher: Multi-row Facebook Reels publishing with scoped title/description DOM insertion and dynamic table scrolling.\n- 🛡️ Smart Stalled Video Pruner: Auto-detects 0% stalled uploads (30s safety timeout) and prunes stuck items to keep the queue running seamlessly.\n- 🌐 DataImpulse Proxy Exhaustion Guard: Instant real-time alerts when bandwidth quota is depleted.\n- 🔒 Unified CDP Session Engine: High-reliability session verification and persistent browser launch architecture."
+}
